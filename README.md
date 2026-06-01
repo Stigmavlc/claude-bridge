@@ -1,6 +1,30 @@
 # Claude Bridge
 
-Let Claude Code do your web tasks for you, instead of stopping to ask you to do them yourself.
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Claude Code plugin](https://img.shields.io/badge/Claude_Code-plugin-7C3AED)](https://code.claude.com/docs/en/plugins)
+![Version](https://img.shields.io/badge/version-0.1.0-blue)
+[![GitHub stars](https://img.shields.io/github/stars/Stigmavlc/claude-bridge?style=social)](https://github.com/Stigmavlc/claude-bridge/stargazers)
+
+*Let Claude Code do your web tasks for you, instead of stopping to ask you to do them yourself.*
+
+Unlike browser automation that opens a fresh, logged-out browser, Claude Bridge uses your own signed-in Chrome, so there is no re-login and nothing to copy and paste.
+
+<!-- demo GIF goes here once recorded and approved -->
+
+## Quick start
+
+```text
+/plugin marketplace add Stigmavlc/claude-bridge
+/plugin install claude-bridge@claude-bridge
+```
+
+Use it to:
+- Log into a dashboard and check or change a setting (ads, hosting, DNS, billing, analytics, a CMS).
+- Fill in and submit a web form.
+- Look something up on a public site and report back.
+- Click through any multi-step web flow you would otherwise do by hand.
+
+(Full requirements and the optional logged-in setup are in [Install](#how-to-install-it) below.)
 
 ## What it is
 
