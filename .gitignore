@@ -9,7 +9,7 @@ Thumbs.db
 *.bak
 *.bak.*
 
-# Personal / internal files — NOT part of the published plugin.
+# Personal / internal files (NOT part of the published plugin).
 # These stay on the local disk but must never be pushed to the public repo.
 CLAUDE.md
 Project_Master_and_changelog.md
