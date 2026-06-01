@@ -1,0 +1,22 @@
+{
+  "name": "claude-bridge",
+  "displayName": "Claude Bridge",
+  "version": "0.1.0",
+  "description": "Closes the gap between Claude Code and the browser. When a task needs the web, Claude Code drives the browser itself — your real logged-in Chrome (via the Claude extension) for account work, a headless browser for public lookups — and reports back, with no copy-paste handoff.",
+  "author": {
+    "name": "Ivan Aguilar",
+    "email": "Stigmavlc@users.noreply.github.com"
+  },
+  "license": "MIT",
+  "keywords": [
+    "browser",
+    "automation",
+    "chrome",
+    "claude-in-chrome",
+    "browser-extension",
+    "playwright",
+    "chrome-devtools",
+    "agent",
+    "web"
+  ]
+}

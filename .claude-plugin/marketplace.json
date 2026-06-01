@@ -1,0 +1,20 @@
+{
+  "name": "claude-bridge",
+  "description": "Marketplace for Claude Bridge — autonomous browser handoff for Claude Code.",
+  "owner": {
+    "name": "Ivan Aguilar",
+    "email": "Stigmavlc@users.noreply.github.com"
+  },
+  "plugins": [
+    {
+      "name": "claude-bridge",
+      "source": ".",
+      "description": "When a task needs the web, Claude Code drives the browser itself: your real logged-in Chrome for account work, a headless browser for public lookups. Bundles a headless Chrome DevTools MCP engine and a routing skill; the logged-in path uses the Claude in Chrome extension via `/chrome`.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Ivan Aguilar"
+      },
+      "keywords": ["browser", "automation", "chrome", "claude-in-chrome", "playwright"]
+    }
+  ]
+}
