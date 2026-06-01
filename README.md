@@ -167,7 +167,7 @@ claude --plugin-dir "/path/to/Claude Bridge"
 claude-bridge/
 ├── .claude-plugin/
 │   ├── plugin.json          # plugin manifest
-│   └── marketplace.json     # one-plugin marketplace (source: ".")
+│   └── marketplace.json     # one-plugin marketplace (github source)
 ├── .mcp.json                # bundles the background Chrome DevTools browser
 ├── skills/
 │   └── browser-bridge/
