@@ -9,7 +9,9 @@
 
 Unlike browser automation that opens a fresh, logged-out browser, Claude Bridge uses your own signed-in Chrome, so there is no re-login and nothing to copy and paste.
 
-<!-- demo GIF goes here once recorded and approved -->
+<p align="center">
+  <img src="assets/hero.png" alt="Claude Bridge: you ask in your terminal, Claude drives your real signed-in browser and reports the answer back" width="900">
+</p>
 
 ## Quick start
 
